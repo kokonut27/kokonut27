@@ -7,5 +7,5 @@
 #### I don't use this much. But here are some things you can visit me on:
 - Replit: https://replit.com/@JBloves27
 
-#### I'm mostly a python user. Learning JS too.
+#### I'm mostly a python user. Also a HTML/JS user. Learning php.
 #### Uh, yeah. That's it. Cya.
