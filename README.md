@@ -26,7 +26,7 @@
 | Python     |   9   |
 | JavaScript |   8   |
 | HTML/CSS   |   7   |
-| PHP LEVEL  |   7   |
+| PHP        |   7   |
 
 
 
