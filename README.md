@@ -14,7 +14,7 @@
 - Replit: https://replit.com/@JBloves27
 - Codecademy: https://www.codecademy.com/profiles/JBYT27
 - Github: Right here :)
-- Discord: *Coming Soon to get tag lol*
+- Discord: haha é#5634
 
 --- 
 
