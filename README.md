@@ -21,12 +21,14 @@
 <br>
 
 ### Languages and code:
-- Python: LEVEL 9
-- JavaScript: LEVEL 8
-- HTML/CSS: LEVEL 7
-- PHP: LEVEL 7
+| Language   | Level |
+| ---------- | ----- |
+| Python     |   9   |
+| JavaScript |   8   |
+| HTML/CSS   |   7   |
+| PHP LEVEL  |   7   |
 
-> I couldn't create a table because of my low brain levels :)
+
 
 --- 
 
