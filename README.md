@@ -6,8 +6,6 @@
 
 --- 
 
-> Also, I'm a they/them and he/him
-
 <br>
 
 ### Contact me:
