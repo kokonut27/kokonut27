@@ -12,7 +12,7 @@
 - Replit: https://replit.com/@JBloves27
 - Codecademy: https://www.codecademy.com/profiles/JBYT27
 - Github: Right here :)
-- Discord: JBYT27#5634
+- Discord: Aspirin#5634
 
 --- 
 
