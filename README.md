@@ -21,10 +21,10 @@
 ### Languages and code:
 | Language   | Level |
 | ---------- | ----- |
-| Python     |   9   |
-| JavaScript |   8   |
-| HTML/CSS   |   7   |
-| PHP        |   7   |
+| Python     |   8   |
+| JavaScript |   7   |
+| HTML/CSS   |   8   |
+| PHP        |   6   |
 
 
 
