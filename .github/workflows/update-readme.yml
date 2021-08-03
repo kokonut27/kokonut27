@@ -1,0 +1,28 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    run-ons: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: yarn install
+      - name: Create github md
+        run: |-
+          yarn generate
+          cat README.md
+      - name: Commit and push
+        run: |-
+          git diff
+          git config --global user.email "beol0127@gmail.com"
+          git config --global user.name "JBYT27"
+          git pull
+          git add -A
+          git commit -m "Update README.md" || exit 0
+          git push
