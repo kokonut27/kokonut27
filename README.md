@@ -33,13 +33,13 @@
 <br>
 
 ### Projects:
-- PyScript: *`(Python and JavaScript)`* [here](https://github.com/PyScript-Language/PyScript-Compiler)
-- ReplAPI: *`(Python)`* [here](https://github.com/JBYT27/REPLAPI)
-- BHTML: *`(Html, Python, Css, Javascript)`* [here](https://github.com/JBYT27/BHTML-Compiler)
-- Other PyScript related projects including docs: *`(Reactjs, JavaScript, Html, Css)`* [here](https://github.com/PyScript-Language)
-
-> Note that more info will be listed in the projects
-
+- ~~PyScript: *`(Python and JavaScript)`* [here](https://github.com/PyScript-Language/PyScript-Compiler)~~
+- ~~ReplAPI: *`(Python)`* [here](https://github.com/JBYT27/REPLAPI)~~
+- ~~BHTML: *`(Html, Python, Css, Javascript)`* [here](https://github.com/JBYT27/BHTML-Compiler)~~
+- ~~Other PyScript related projects including docs: *`(Reactjs, JavaScript, Html, Css)`* [here](https://github.com/PyScript-Language)~~
+  
+^ Kinda outdated and actually working on GitAPI, seen below on my pinned Repos.
+  
 --- 
 
 <br>
