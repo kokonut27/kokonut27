@@ -1,4 +1,4 @@
-<h1 align="center">Hello there.</h1>
+<h1 align="center">Hello there!</h1>
 <h4 align="center"> Interesting that someone actually visited my account lol.
 <h3 align="center">Stats:</h3>
   
@@ -45,5 +45,8 @@
 <br>
 
 ### Conclusion:
-#### I'm not too much of an advanced coder, but I really do enjoy coding. ~~So enjoy my stats or else xD~~ I hope I see you soon!
+#### I'm not too much of an advanced coder, but I really do enjoy coding!
 ###### Have you forked a [potato](https://github.com/drtshock/Potato)? I have :D
+
+  
+EYYY, 333 following!! 
