@@ -3,3 +3,5 @@
 - Discord: aspirin#5634
 
 Working on [GitAPI](https://github.com/JBYT27/GitAPI).
+
+###### Ssshh, I'm also a genshin nerd ;D
