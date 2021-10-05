@@ -2,6 +2,6 @@
 - Replit: https://replit.com/@JBloves27
 - Discord: aspirin#5634
 
-Working on [GitAPI](https://github.com/JBYT27/GitAPI).
+Working on [GitAPI](https://github.com/JBYT27/GitAPI). Please visit it!
 
 ###### Ssshh, I'm also a genshin nerd ;D
