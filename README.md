@@ -4,9 +4,9 @@
 - [Replit: replit.com/@JBloves27](https://replit.com/@JBloves27)
 - Discord: **aspirin <3#5634**
 
-Working on [GitAPI](https://github.com/JBYT27/GitAPI). 
+Working on [GitHub User Search](https://github.com/JBYT27/GitHub-User-Search). 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBYT27&repo=GitAPI)](https://github.com/JBYT27/GitAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBYT27&repo=GitHub-User-Search)](https://github.com/JBYT27/GitHub-User-Search)
 
 Please visit it!
 
