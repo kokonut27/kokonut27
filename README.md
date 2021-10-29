@@ -2,7 +2,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBYT27)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Replit: replit.com/@JBloves27](https://replit.com/@JBloves27)
-- Discord: **aspirin <3#5634**
 
 Working on [GitHub User Search](https://github.com/JBYT27/GitHub-User-Search). 
 
