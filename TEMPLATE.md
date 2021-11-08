@@ -11,3 +11,8 @@ I'm also planning on learning Expressjs and tinkering with Nodejs.
 
 ### Contact
 You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.com
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
