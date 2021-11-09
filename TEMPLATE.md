@@ -6,7 +6,7 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 ### Languages
 I like programming with Python3, Flask, JavaScript, HTML, and just web development in general.
 
-I'm also planning on learning Expressjs and tinkering with Nodejs.
+I also enjoy tinkering with Nodejs, Expressjs, and React!
 
 
 ### Contact
