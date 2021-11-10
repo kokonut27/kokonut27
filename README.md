@@ -15,9 +15,9 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/JBYT27/PogRater/issues/3) in [JBYT27/PogRater](https://github.com/JBYT27/PogRater)
-2. 🗣 Commented on [#18](https://github.com/VulcanWM/jasonism/issues/18) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
-3. 🗣 Commented on [#18](https://github.com/VulcanWM/jasonism/issues/18) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
-4. 🗣 Commented on [#19](https://github.com/VulcanWM/jasonism/issues/19) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
+1. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
+2. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
+3. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
+4. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 5. 🗣 Commented on [#3](https://github.com/JBYT27/PogRater/issues/3) in [JBYT27/PogRater](https://github.com/JBYT27/PogRater)
 <!--END_SECTION:activity-->
