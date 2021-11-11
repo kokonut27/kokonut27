@@ -15,4 +15,9 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/JBYT27/10-minute-flask-tutorial-/issues/1) in [JBYT27/10-minute-flask-tutorial-](https://github.com/JBYT27/10-minute-flask-tutorial-)
+2. ❗️ Closed issue [#3](https://github.com/JBYT27/PogRater/issues/3) in [JBYT27/PogRater](https://github.com/JBYT27/PogRater)
+3. 🗣 Commented on [#3](https://github.com/JBYT27/PogRater/issues/3) in [JBYT27/PogRater](https://github.com/JBYT27/PogRater)
+4. 🗣 Commented on [#3](https://github.com/JBYT27/PogRater/issues/3) in [JBYT27/PogRater](https://github.com/JBYT27/PogRater)
+5. 🗣 Commented on [#1](https://github.com/JBYT27/10-minute-flask-tutorial-/issues/1) in [JBYT27/10-minute-flask-tutorial-](https://github.com/JBYT27/10-minute-flask-tutorial-)
 <!--END_SECTION:activity-->
