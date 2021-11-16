@@ -15,4 +15,9 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/JBYT27/JBloves27/pull/4) in [JBYT27/JBloves27](https://github.com/JBYT27/JBloves27)
+2. 🗣 Commented on [#1](https://github.com/JBYT27/PythonPlugin/issues/1) in [JBYT27/PythonPlugin](https://github.com/JBYT27/PythonPlugin)
+3. 🗣 Commented on [#1](https://github.com/JBYT27/PythonPlugin/issues/1) in [JBYT27/PythonPlugin](https://github.com/JBYT27/PythonPlugin)
+4. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
+5. 🎉 Merged PR [#9](https://github.com/JBYT27/GitHub-User-Search/pull/9) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 <!--END_SECTION:activity-->
