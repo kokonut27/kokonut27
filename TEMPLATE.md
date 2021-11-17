@@ -4,9 +4,8 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 
 ### Languages
-I like programming with Python3, Flask, JavaScript, HTML, and just web development in general.
 
-I also enjoy tinkering with Nodejs, Expressjs, and React!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBYT27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact
