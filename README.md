@@ -14,4 +14,9 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com/googol88/repltalk-badge/issues/9) in [googol88/repltalk-badge](https://github.com/googol88/repltalk-badge)
+2. 🗣 Commented on [#9](https://github.com/googol88/repltalk-badge/issues/9) in [googol88/repltalk-badge](https://github.com/googol88/repltalk-badge)
+3. 🎉 Merged PR [#2](https://github.com/JBYT27/replit-readme-stats/pull/2) in [JBYT27/replit-readme-stats](https://github.com/JBYT27/replit-readme-stats)
+4. 🗣 Commented on [#2](https://github.com/JBYT27/.mark/issues/2) in [JBYT27/.mark](https://github.com/JBYT27/.mark)
+5. ❗️ Opened issue [#9](https://github.com/googol88/repltalk-badge/issues/9) in [googol88/repltalk-badge](https://github.com/googol88/repltalk-badge)
 <!--END_SECTION:activity-->
