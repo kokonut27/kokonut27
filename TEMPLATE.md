@@ -15,3 +15,7 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+### Advanced stats
+
+![Metrics](https://github.com/JBYT27/JBYT27/blob/master/github-metrics.svg)
