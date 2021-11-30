@@ -20,3 +20,7 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 4. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 5. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 <!--END_SECTION:activity-->
+
+### Advanced stats
+
+![Metrics](https://github.com/JBYT27/JBYT27/blob/master/github-metrics.svg)
