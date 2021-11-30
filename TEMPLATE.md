@@ -18,4 +18,4 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 
 ### Advanced stats
 
-![Metrics](https://github.com/JBYT27/JBYT27/blob/master/github-metrics.svg)
+![Metrics](https://github.com/JBYT27/JBYT27/blob/main/github-metrics.svg)
