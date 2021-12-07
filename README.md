@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/JBYT27/io/issues/6) in [JBYT27/io](https://github.com/JBYT27/io)
+2. 🎉 Merged PR [#5](https://github.com/JBYT27/io/pull/5) in [JBYT27/io](https://github.com/JBYT27/io)
+3. 🗣 Commented on [#5](https://github.com/JBYT27/io/issues/5) in [JBYT27/io](https://github.com/JBYT27/io)
+4. 🗣 Commented on [#8](https://github.com/JBYT27/io/issues/8) in [JBYT27/io](https://github.com/JBYT27/io)
+5. 🗣 Commented on [#8](https://github.com/JBYT27/io/issues/8) in [JBYT27/io](https://github.com/JBYT27/io)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
