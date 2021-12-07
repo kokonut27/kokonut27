@@ -1,6 +1,6 @@
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **593** commits, opened **38** issues, submitted **26** pull requests, received **107** stars across **33** personal projects and contributed to **33** public repositories.
+Since then, I have pushed **600** commits, opened **39** issues, submitted **26** pull requests, received **109** stars across **35** personal projects and contributed to **33** public repositories.
 
 
 ### Languages
@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/VulcanWM/jasonism/issues/32) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
-2. 🗣 Commented on [#32](https://github.com/VulcanWM/jasonism/issues/32) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
-3. 💪 Opened PR [#3](https://github.com/JBYT27/io/pull/3) in [JBYT27/io](https://github.com/JBYT27/io)
-4. 🗣 Commented on [#95](https://github.com/DynamicSquid/night/issues/95) in [DynamicSquid/night](https://github.com/DynamicSquid/night)
-5. 💪 Opened PR [#32](https://github.com/VulcanWM/jasonism/pull/32) in [VulcanWM/jasonism](https://github.com/VulcanWM/jasonism)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
