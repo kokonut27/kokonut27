@@ -1,6 +1,6 @@
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **634** commits, opened **39** issues, submitted **26** pull requests, received **109** stars across **35** personal projects and contributed to **33** public repositories.
+Since then, I have pushed **686** commits, opened **43** issues, submitted **26** pull requests, received **107** stars across **35** personal projects and contributed to **37** public repositories.
 
 
 ### Languages
@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/JBYT27/io/issues/10) in [JBYT27/io](https://github.com/JBYT27/io)
-2. 🗣 Commented on [#10](https://github.com/JBYT27/io/issues/10) in [JBYT27/io](https://github.com/JBYT27/io)
-3. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
-4. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
-5. 🗣 Commented on [#7](https://github.com/JBYT27/GitHub-User-Search/issues/7) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
