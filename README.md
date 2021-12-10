@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/thesephist/oak-syntax-visualizer/issues/1) in [thesephist/oak-syntax-visualizer](https://github.com/thesephist/oak-syntax-visualizer)
-2. ❗️ Opened issue [#1](https://github.com/thesephist/oak-syntax-visualizer/issues/1) in [thesephist/oak-syntax-visualizer](https://github.com/thesephist/oak-syntax-visualizer)
-3. 🗣 Commented on [#13](https://github.com/TheIoLang/io/issues/13) in [TheIoLang/io](https://github.com/TheIoLang/io)
-4. 🗣 Commented on [#13](https://github.com/TheIoLang/io/issues/13) in [TheIoLang/io](https://github.com/TheIoLang/io)
-5. 🗣 Commented on [#13](https://github.com/TheIoLang/io/issues/13) in [TheIoLang/io](https://github.com/TheIoLang/io)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
