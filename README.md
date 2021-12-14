@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/TheIoLang/io/pull/16) in [TheIoLang/io](https://github.com/TheIoLang/io)
+2. 🗣 Commented on [#13](https://github.com/TheIoLang/io/issues/13) in [TheIoLang/io](https://github.com/TheIoLang/io)
+3. ❗️ Closed issue [#7](https://github.com/TheIoLang/io/issues/7) in [TheIoLang/io](https://github.com/TheIoLang/io)
+4. 🗣 Commented on [#16](https://github.com/JBYT27/GitHub-User-Search/issues/16) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
+5. 🗣 Commented on [#16](https://github.com/JBYT27/GitHub-User-Search/issues/16) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
