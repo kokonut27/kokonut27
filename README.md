@@ -1,6 +1,6 @@
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **739** commits, opened **44** issues, submitted **26** pull requests, received **112** stars across **37** personal projects and contributed to **37** public repositories.
+Since then, I have pushed **767** commits, opened **45** issues, submitted **26** pull requests, received **117** stars across **38** personal projects and contributed to **38** public repositories.
 
 
 ### Languages
@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/TheIoLang/io/pull/16) in [TheIoLang/io](https://github.com/TheIoLang/io)
-2. 🗣 Commented on [#13](https://github.com/TheIoLang/io/issues/13) in [TheIoLang/io](https://github.com/TheIoLang/io)
-3. ❗️ Closed issue [#7](https://github.com/TheIoLang/io/issues/7) in [TheIoLang/io](https://github.com/TheIoLang/io)
-4. 🗣 Commented on [#16](https://github.com/JBYT27/GitHub-User-Search/issues/16) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
-5. 🗣 Commented on [#16](https://github.com/JBYT27/GitHub-User-Search/issues/16) in [JBYT27/GitHub-User-Search](https://github.com/JBYT27/GitHub-User-Search)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
