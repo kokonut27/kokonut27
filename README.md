@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#6](https://github.com/DillonB07/Spotter/issues/6) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+2. 🗣 Commented on [#6](https://github.com/DillonB07/Spotter/issues/6) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+3. ❗️ Opened issue [#1422](https://github.com/rossjrw/rossjrw/issues/1422) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+4. ❗️ Opened issue [#1421](https://github.com/rossjrw/rossjrw/issues/1421) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. ❗️ Closed issue [#7](https://github.com/JBYT27/Git-API/issues/7) in [JBYT27/Git-API](https://github.com/JBYT27/Git-API)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
