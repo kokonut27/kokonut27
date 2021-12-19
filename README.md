@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#12](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/12) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+2. 🗣 Commented on [#10](https://github.com/TheIoLang/io/issues/10) in [TheIoLang/io](https://github.com/TheIoLang/io)
+3. 🗣 Commented on [#12](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/12) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+4. 💪 Opened PR [#12](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/pull/12) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+5. 🗣 Commented on [#11](https://github.com/BD103/BD103-Python/issues/11) in [BD103/BD103-Python](https://github.com/BD103/BD103-Python)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
