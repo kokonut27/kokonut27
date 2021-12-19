@@ -9,7 +9,7 @@ Since then, I have pushed **809** commits, opened **49** issues, submitted **27*
 
 
 ### Contact
-You can contact me @ [Replit](https://replit.com/@JBloves27) or beol0127@gmail.com
+You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com, discord: depressedweeb#2189
 
 ### :zap: Recent Activity
 
