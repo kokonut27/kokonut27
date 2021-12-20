@@ -1,6 +1,6 @@
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **836** commits, opened **50** issues, submitted **27** pull requests, received **159** stars across **40** personal projects and contributed to **42** public repositories.
+Since then, I have pushed **845** commits, opened **50** issues, submitted **28** pull requests, received **159** stars across **40** personal projects and contributed to **42** public repositories.
 
 
 ### Languages
@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/22) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
-2. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-3. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-4. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-5. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
