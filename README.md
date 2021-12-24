@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/JBYT27/YouList/issues/4) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
-2. ❗️ Opened issue [#3](https://github.com/JBYT27/YouList/issues/3) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
-3. ❗️ Opened issue [#2](https://github.com/JBYT27/YouList/issues/2) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
-4. ❗️ Opened issue [#1](https://github.com/JBYT27/YouList/issues/1) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
-5. 🎉 Merged PR [#6](https://github.com/JBYT27/hello-world-in-many-langs/pull/6) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
