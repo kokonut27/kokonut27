@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1428](https://github.com/rossjrw/rossjrw/issues/1428) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. ❗️ Opened issue [#4](https://github.com/JBYT27/YouList/issues/4) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
+3. ❗️ Opened issue [#3](https://github.com/JBYT27/YouList/issues/3) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
+4. ❗️ Opened issue [#2](https://github.com/JBYT27/YouList/issues/2) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
+5. ❗️ Opened issue [#1](https://github.com/JBYT27/YouList/issues/1) in [JBYT27/YouList](https://github.com/JBYT27/YouList)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
