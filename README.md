@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JBYT27/hello-world-in-many-langs/pull/7) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-2. 🎉 Merged PR [#6](https://github.com/JBYT27/zsq/pull/6) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-3. ❗️ Closed issue [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-4. 🗣 Commented on [#35](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/35) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
-5. 🗣 Commented on [#35](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/35) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
