@@ -9,7 +9,7 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 
 ### Contact
-You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com, discord: depressedweeb#2189
+You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com, discord: kokonut#2189
 
 ### :zap: Recent Activity
 
