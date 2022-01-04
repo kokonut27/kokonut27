@@ -1,6 +1,6 @@
-> I joined GitHub **0** years ago.
+> I joined GitHub **1** years ago.
 
-Since then, I have pushed **952** commits, opened **61** issues, submitted **30** pull requests, received **161** stars across **42** personal projects and contributed to **44** public repositories.
+Since then, I have pushed **961** commits, opened **61** issues, submitted **32** pull requests, received **161** stars across **42** personal projects and contributed to **46** public repositories.
 
 
 ### Languages
@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/JBYT27/zsq/issues/2) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-2. ❗️ Closed issue [#2](https://github.com/JBYT27/zsq/issues/2) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-3. 🎉 Merged PR [#7](https://github.com/JBYT27/hello-world-in-many-langs/pull/7) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-4. 🎉 Merged PR [#6](https://github.com/JBYT27/zsq/pull/6) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-5. ❗️ Closed issue [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
