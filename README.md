@@ -1,5 +1,7 @@
 > I joined GitHub **1** years ago.
 
+ [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JBYT27.visitor.badge.reloaded&color=333&style=for-the-badge&logo=github)](https://github.com/JBYT27)
+
 Since then, I have pushed **962** commits, opened **61** issues, submitted **32** pull requests, received **161** stars across **42** personal projects and contributed to **46** public repositories.
 
 
