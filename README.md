@@ -14,11 +14,6 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-2. 💪 Opened PR [#21](https://github.com/replit/blog/pull/21) in [replit/blog](https://github.com/replit/blog)
-3. 💪 Opened PR [#4](https://github.com/MrIntellectual/Web-Dev-Template/pull/4) in [MrIntellectual/Web-Dev-Template](https://github.com/MrIntellectual/Web-Dev-Template)
-4. ❗️ Closed issue [#1](https://github.com/JBYT27/zsq/issues/1) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-5. 🗣 Commented on [#1](https://github.com/JBYT27/zsq/issues/1) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
