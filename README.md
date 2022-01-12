@@ -14,6 +14,11 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#49](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/49) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+2. ❗️ Closed issue [#1](https://github.com/thesephist/oak-syntax-visualizer/issues/1) in [thesephist/oak-syntax-visualizer](https://github.com/thesephist/oak-syntax-visualizer)
+3. 🗣 Commented on [#1](https://github.com/thesephist/oak-syntax-visualizer/issues/1) in [thesephist/oak-syntax-visualizer](https://github.com/thesephist/oak-syntax-visualizer)
+4. 🗣 Commented on [#49](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/49) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+5. 💪 Opened PR [#49](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/pull/49) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 <!--END_SECTION:activity-->
 
 ### Advanced stats
