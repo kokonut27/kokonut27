@@ -20,10 +20,3 @@ You can contact me @ [Replit](https://replit.com/@JBloves27), beol0127@gmail.com
 4. 🗣 Commented on [#49](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/issues/49) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 5. 💪 Opened PR [#49](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/pull/49) in [Pokemon-PythonRed/Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 <!--END_SECTION:activity-->
-
-### Advanced stats
-
-![Metrics](https://github.com/JBYT27/JBYT27/blob/main/github-metrics.svg)
-
-
-> Feel free to use this Profile README as a template for *your own* Profile README!
