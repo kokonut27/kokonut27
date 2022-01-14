@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
+
+body {
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.connect a {
+  text-decoration: none;
+  color: #333;
+}
+
+.connect a:hover {
+  transition: 0.75s;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
