@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>kokonut27</title>
+    <!--
+      <link rel="shortcut icon" href="{{ url_for('static', filename='logo.png') }}">
+    -->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
+
+    <style>
+      img {
+        vertical-align: middle;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>kokonut27</h1>
+    <div class="main">
+      <h3>Connect with me</h3>
+      <span class="connect">
+        <a href="https://discord.com/users/921548675119992852"><i class="fab fa-discord fa-lg"></i></a>
+        <a href="https://github.com/kokonut27/"><i class="fab fa-github fa-lg"></i></a>
+        <a href="https://replit.com/@JBloves27"><img src="{{ url_for('static', filename='replit2.png' )}}" width="30" height="30"/></a>
+      </span>
+    </div>
+    
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+  </body>
+</html>
