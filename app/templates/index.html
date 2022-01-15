@@ -17,9 +17,33 @@
     </style>
   </head>
   <body>
-    <h1>kokonut27</h1>
     <div class="main">
-      <p>I'm a teenager coder hobbyist that likes to code API packages, python-based languages, code fun programs, and experiment with js libraries. My main tools that I use are <a href="https://python.org">Python3</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>.</p>
+      <h1 class="title">kokonut27</h1>
+      <p>I'm a teenager coder hobbyist that likes to code API packages, python-based languages, code fun programs, and experiment with js libraries.
+      <br>My main tools that I use are <a href="https://python.org">Python3</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>. Take a look at my projects <a href="#projects">below!</a></p>
+
+      <br></br>
+      <br></br>
+
+      <div id="projects">
+        <div id="project">
+          <h2>Git_API</h2>
+          <h4>A Python3 API package coded to return GitHub stats as JSON data.</h4>
+          <br></br>
+          <br>
+          <a id="link" href="https://github.com/kokonut27/Git-API">
+            GitHub
+          </a>
+          <a id="link" href="https://replit.com/@JBloves27/GitAPI">
+            Replit
+          </a>
+          <br></br>
+        </div>
+
+        <div id="project">
+
+        </div>
+      </div>
       
       <span class="connect">
         <a href="mailto:beol0127@gmail.com"><i class="fas fa-envelope fa-lg"></i></a>
@@ -28,13 +52,23 @@
         <a href="https://github.com/kokonut27/"><i class="fab fa-github fa-lg"></i></a>
       </span>
     </div>
-
-    <br>
-
-    <footer>
-      <h6>By the way, I decided against making a really hard and cool profile website and decided rather on a simple, nice looking website :)</h6>
-    </footer>
     
     <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+$(document).ready(function(){
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 500, function(){
+        window.location.hash = hash;
+      });
+    };
+  });
+});
+    </script>
   </body>
 </html>

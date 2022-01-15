@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
 
 a {
   text-decoration: none;
-  color: #333;
+  color: black;
 }
 
 a:hover {
@@ -11,8 +16,16 @@ a:hover {
 
 body {
   text-align: center;
-  margin: 0 auto;
+  margin: 0;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+div.main {
+  padding: 2em;
+}
+
+.title {
+  font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 .connect a {
@@ -27,4 +40,53 @@ body {
   -ms-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
+}
+
+.main #projects {
+  /*
+  display: flex;
+  column-gap: 20px;
+  justify-content: space-between;
+  */
+}
+
+.main #projects #project {
+  border-radius: 0.25em;
+  background-color: #dcdee0;
+  color: #3f4245;
+  width: 35em;
+  margin: 0 auto;
+  /* 
+  display: flex;
+  column-gap: 20px;
+  justify-content: space-between;
+  */
+}
+
+.main #projects #project a#link {
+  padding: 0.45em;
+  border-radius: 0.25em;
+  background-color: #c1c3c7;
+  color: #3f4245;
+  opacity: 0.8;
+  transition: 1s;
+  display: inline-block;
+}
+
+.main #projects #project a#link:hover {
+  opacity: 1;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  /* border-radius: 10px; */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  /* border-radius: 10px; */
 }
