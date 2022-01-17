@@ -22,6 +22,11 @@ body {
 
 div.main {
   padding: 2em;
+  position: relative;
+}
+
+.hi:hover {
+  text-decoration: none;
 }
 
 .title {
@@ -40,6 +45,15 @@ div.main {
   -ms-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
+}
+
+.come-in {
+  transform: translateY(150px	);
+  animation: come-in 0.8s ease-out forwards;
+}
+
+@keyframes come-in {
+  to { transform: translateY(0); }
 }
 
 .main #projects {
