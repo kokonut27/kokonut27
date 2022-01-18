@@ -109,6 +109,7 @@ div.main {
     -webkit-animation: fadein 2s; /* Safari and Chrome */
     -o-animation: fadein 2s; /* Opera */
 }
+
 @keyframes fadein {
     from {
         opacity:0;
@@ -135,7 +136,7 @@ div.main {
 }
 @-o-keyframes fadein { /* Opera */
     from {
-        opacity:0;
+        opacity: 0;
     }
     to {
         opacity: 1;
@@ -146,14 +147,24 @@ div.main {
   opacity: 0;
 }
 
-@keyframes project-fade-in {
+/*
+.main .about {
+  opacity: 0;
+}
+*/
+
+@keyframes fade-in {
   100% {
     opacity: 1;
   }
 }
 
 .main #projects.animate {
-  animation: project-fade-in .5s forwards;
+  animation: fade-in 1s forwards;
+}
+
+.main .about.animate {
+  animation: fade-in 1s forwards;
 }
 
 ::-webkit-scrollbar {

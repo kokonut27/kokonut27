@@ -122,7 +122,24 @@ document.addEventListener('scroll', function (e) {
   var top  = window.pageYOffset + window.innerHeight,
       isVisible = top > document.querySelector('.main > #projects').offsetTop;
        
-   if (isVisible) {
-     document.getElementById('projects').classList.add('animate');
-   }
+  if (isVisible) {
+    document.getElementById('projects').classList.add('animate');
+  }
+  else {
+    document.getElementById('projects').classList.remove('animate');
+  }
 });
+
+/*
+document.addEventListener('scroll', function (e) {
+  var top  = window.pageYOffset + window.innerHeight,
+      isVisible = top > document.querySelector('.main > .about').offsetTop;
+       
+  if (isVisible) {
+    document.getElementByClass('about').classList.add('animate');
+  }
+  else {
+    document.getElementByClass('about').classList.remove('animate');
+  }
+});
+*/
