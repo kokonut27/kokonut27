@@ -47,23 +47,6 @@ div.main {
   transform: rotate(45deg);
 }
 
-.come-in {
-  transform: translateY(150px	);
-  animation: come-in 0.8s ease-out forwards;
-}
-
-@keyframes come-in {
-  to { transform: translateY(0); }
-}
-
-.main #projects {
-  /*
-  display: flex;
-  column-gap: 20px;
-  justify-content: space-between;
-  */
-}
-
 .main #projects #project {
   border-radius: 0.25em;
   background-color: #dcdee0;
@@ -89,6 +72,60 @@ div.main {
 
 .main #projects #project a#link:hover {
   opacity: 1;
+}
+
+.main {
+    /* margin-top: 25px; */
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.main #projects {
+  opacity: 0;
+}
+
+@keyframes project-fade-in {
+  100% {
+    opacity: 1;
+  }
+}
+
+.main #projects.animate {
+  animation: project-fade-in .5s forwards;
 }
 
 ::-webkit-scrollbar {

@@ -117,3 +117,12 @@ document.onmousemove = function(e) {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 };
 goo.update(W/2, H/2, 0, 0); */
+
+document.addEventListener('scroll', function (e) {
+  var top  = window.pageYOffset + window.innerHeight,
+      isVisible = top > document.querySelector('.main > #projects').offsetTop;
+       
+   if (isVisible) {
+     document.getElementById('projects').classList.add('animate');
+   }
+});
