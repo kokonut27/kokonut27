@@ -232,6 +232,22 @@ div.main {
 	color: black;
 }
 
+/*
+.inside-about {
+  display: inline;
+}
+*/
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.inside-about.space-around {
+  justify-content: space-around;
+}
+
 .footer {
   bottom: 0;
 }

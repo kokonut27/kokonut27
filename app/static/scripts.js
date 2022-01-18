@@ -155,6 +155,7 @@ function checkTheme() {
 		console.log("Null, set to light.");
 		localStorage.setItem("theme", "light-theme");
 		document.querySelector(".theme").setAttribute("name", "moon");
+    document.querySelector("")
 	}
 
 	else if (currentTheme === "light-theme") {
@@ -199,5 +200,33 @@ function changeTheme() {
 	console.log("current theme after change:")
 	console.log(currentTheme);
 
-	document.querySelector(".theme").classList.toggle("rotated");
+	// document.querySelector(".theme").classList.toggle("rotated");
+}
+
+document.querySelector('.theme').addEventListener('click', function() {
+  const icon = this.querySelector('i');
+  // const text = this.querySelector('span');
+
+  if (icon.classList.contains('fa-moon')) {
+    icon.classList.remove('fa-moon');
+    icon.classList.add('fa-sun');
+  } else {
+    icon.classList.remove('fa-sun');
+    icon.classList.add('fa-moon');
+  }
+});
+
+
+window.onscroll = function() {stickyNav()};
+
+var navbar = document.getElementByClass("navbar");
+
+var sticky = navbar.offsetTop;
+
+function stickyNav() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
 }
