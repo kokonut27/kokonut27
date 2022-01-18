@@ -8,17 +8,30 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
     <style>
-      img {
+      img.replit {
         vertical-align: middle;
       }
     </style>
   </head>
-  <body>
+  <body onload="checkTheme();">
     <div class="main">
-      <a href="https://JBloves27.repl.co" class="hi"><h1 class="title">kokonut27</h1></a>
+      <div class="navbar">
+        <span>
+          <a href="https://jbloves27.repl.co" class="hi"><img width="40" height="40" style="display: flex; float: left;" src="{{ url_for('static', filename='favicon.png') }}" alt="jbloves27 profile icon"></a>
+        </span>
+
+        <span>
+          <a onclick="changeTheme();" class="theme"><i class="fas fa-moon"></i></a>
+          <!--
+            <a onclick="changeTheme();" class="theme"><i class="fas fa-sun"></i>></a>
+          -->
+        </span>
+      </div>
+      
+      <a href="https://JBloves27.repl.co" class="hi"><h1 style="display: inline-block; float: none; text-align: left;" class="title">kokonut27</h1></a>
       <div class="about">
         <div class="inside-about" style="display: flex;">
-          <h2 style="padding: 1em;"><strong>About me</strong></h2>
+          <h2 style="padding: 1em;">About me</h2>
           <h3 style="padding: 1em;">I'm a teenager coder hobbyist that likes to code API packages, python-based languages, code fun programs, and experiment with js libraries.</h3>
         </div>
         <br>
@@ -103,10 +116,16 @@
         <div class="connections">
           <a href="mailto:beol0127@gmail.com"><i class="fas fa-envelope fa-lg"></i></a>
           <a href="https://discord.com/users/921548675119992852"><i class="fab fa-discord fa-lg"></i></a>
-          <a href="https://replit.com/@JBloves27"><img src="{{ url_for('static', filename='replit2.png' )}}" width="30" height="30"/></a>
+          <a href="https://replit.com/@JBloves27"><img class="replit" src="{{ url_for('static', filename='replit2.png' )}}" width="30" height="30"/></a>
           <a href="https://github.com/kokonut27/"><i class="fab fa-github fa-lg"></i></a>
         </div>
       </span>
+
+      <footer class="footer">
+        <span>
+          <h5>&copy Copyright <a href="https://github.com/kokonut27">kokonut27</a></h5>
+        </span>
+      </footer>
     </div>
     
     <script src="{{ url_for('static', filename='scripts.js') }}"></script>

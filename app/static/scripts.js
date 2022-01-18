@@ -143,3 +143,61 @@ document.addEventListener('scroll', function (e) {
   }
 });
 */
+
+var currentTheme;
+
+function checkTheme() {
+	currentTheme = localStorage.getItem("theme");
+
+	console.log(currentTheme);
+			
+	if (currentTheme === null) {
+		console.log("Null, set to light.");
+		localStorage.setItem("theme", "light-theme");
+		document.querySelector(".theme").setAttribute("name", "moon");
+	}
+
+	else if (currentTheme === "light-theme") {
+		console.log("light, set to light");
+		document.body.classList.add("light-theme");
+    
+		document.querySelector(".theme").setAttribute("name", "moon");
+	}
+
+	else if (currentTheme === "dark-theme") {
+		console.log("dark, set to dark");
+		document.body.classList.add("dark-theme");
+		document.querySelector(".theme").setAttribute("name", "sunny");
+	}
+
+	else {
+		localStorage.clear();
+	}
+}
+
+function changeTheme() {
+	currentTheme = localStorage.getItem("theme");
+
+	console.log("theme before change:")
+	console.log(currentTheme);
+
+	if (currentTheme === "light-theme") {
+		document.body.classList.remove("light-theme");
+		document.body.classList.add("dark-theme");
+		localStorage.setItem("theme", "dark-theme");
+		document.querySelector(".theme").setAttribute("name", "sunny");
+	}
+
+	else if (currentTheme === "dark-theme") {
+		document.body.classList.remove("dark-theme");
+		document.body.classList.add("light-theme");
+		localStorage.setItem("theme", "light-theme");
+		document.querySelector(".theme").setAttribute("name", "moon");
+	}
+
+	currentTheme = localStorage.getItem("theme");
+	console.log("current theme after change:")
+	console.log(currentTheme);
+
+	document.querySelector(".theme").classList.toggle("rotated");
+}

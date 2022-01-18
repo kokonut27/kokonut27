@@ -1,23 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
-html {
-  scroll-behavior: smooth;
+:root {
+	--transition-speed: 0.2s;
+}
+
+.light-theme {
+	--background-primary: #fcfcfc;
+	--background-secondary: #E2E2E2;
+	
+	--accent-primary: #3123cd;
+	--accent-primary-hover: #6861cc;
+
+	--text-primary: #000;
+	--text-primary-hover: #2c2a2a;
+	--text-secondary: #565959;
+
+	--transparent: #fcfcfc8a;
+	--more-transparent: #fcfcfcf2;
+}
+
+.dark-theme {
+	--background-primary: #121212;
+	--background-secondary: #363636;
+	
+	--accent-primary: #97A8FF;
+	--accent-primary-hover: #6677cc;
+
+	--text-primary: #FCFCFC;
+	--text-primary-hover: #dedede;
+	--text-secondary: #E1E1E1;
+
+	--transparent: #000000cc;
+	--more-transparent: #000000f2;
+}
+
+* {
+  transition: background var(--transition-speed), color var(--transition-speed);
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: color: var(--accent-primary);
 }
 
 a:hover {
   text-decoration: underline;
 }
 
-body {
+html, body {
   text-align: center;
+  scroll-behavior: smooth;
   margin: 0;
   font-family: 'Open Sans Condensed', sans-serif;
+  background: var(--background-primary);
+	height: 100%;
+	color: var(--text-secondary);
 }
 
 div.main {
@@ -35,7 +73,7 @@ div.main {
 
 .connections a {
   text-decoration: none;
-  color: #333;
+  color: color: var(--accent-primary);
 }
 
 .connections i {
@@ -64,8 +102,10 @@ div.main {
 
 .main #projects #project {
   border-radius: 0.25em;
+  /*
   background-color: #dcdee0;
   color: #3f4245;
+  */
   width: 35em;
   margin: 0 auto;
 }
@@ -91,8 +131,10 @@ div.main {
 .main #projects #project a#link {
   padding: 0.45em;
   border-radius: 0.25em;
+  /*
   background-color: #c1c3c7;
   color: #3f4245;
+  */
   opacity: 0.8;
   transition: 1s;
   display: inline-block;
@@ -103,7 +145,6 @@ div.main {
 }
 
 .main {
-    /* margin-top: 25px; */
     animation: fadein 2s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
@@ -165,6 +206,34 @@ div.main {
 
 .main .about.animate {
   animation: fade-in 1s forwards;
+}
+
+.main .navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.theme {
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+	transition: transform 1s;
+}
+
+.theme:hover {
+	transform: rotate(360deg);
+}
+
+.theme[name="sunny"]:hover {
+	color: yellow;
+}
+
+.theme[name="moon"]:hover {
+	color: black;
+}
+
+.footer {
+  bottom: 0;
 }
 
 ::-webkit-scrollbar {
