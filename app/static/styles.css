@@ -33,18 +33,33 @@ div.main {
   font-family: 'Mochiy Pop P One', sans-serif;
 }
 
-.connect a {
+.connections a {
   text-decoration: none;
   color: #333;
 }
 
-.connect a:hover {
-  transition: 0.75s;
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
-  transform: rotate(45deg);
+.connections i {
+  transition: transform 1.75s ease-in-out;
+}
+
+.connections img {
+  transition: transform 1.75s ease-in-out;
+}
+
+.connections i:hover {
+  transform: rotate(720deg);
+  -webkit-transform: rotate(720deg);
+  -moz-transform: rotate(720deg);
+  -ms-transform: rotate(720deg);
+  -o-transform: rotate(720deg);
+}
+
+.connections img:hover {
+  transform: rotate(720deg);
+  -webkit-transform: rotate(720deg);
+  -moz-transform: rotate(720deg);
+  -ms-transform: rotate(720deg);
+  -o-transform: rotate(720deg);
 }
 
 .main #projects #project {
@@ -53,11 +68,24 @@ div.main {
   color: #3f4245;
   width: 35em;
   margin: 0 auto;
-  /* 
-  display: flex;
-  column-gap: 20px;
-  justify-content: space-between;
-  */
+}
+
+@media screen and (max-width: 1100px) {
+  .main #projects #project {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .main #projects #project {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .main #projects #project {
+    width: 65%;
+  }
 }
 
 .main #projects #project a#link {
