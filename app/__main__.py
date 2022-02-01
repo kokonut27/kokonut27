@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
   return render_template("index.html")
 
-@app.route('/blog')
+@app.route('/blog', methods=["POST", "GET"])
 def blog():
   if request.method == "POST":
     return
