@@ -12,5 +12,4 @@
 <a href="https://discord.com/users/921548675119992852"><img src="https://img.shields.io/badge/-@kokonut-313131?style=flat-square&labelColor=1282de&logo=discord&logoColor=white&color=313131"></a>
 </br>
 <a href="https://discord.gg/RwPRpxEyM5"><img src="https://img.shields.io/badge/-kokomi's_oceanic_hangout-313131?style=flat-square&labelColor=1282de&logo=discord&logoColor=white&color=313131"></a>
-
 > yes, i know that my pfp isnt kokomi and that its ganyu lol
