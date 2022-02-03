@@ -149,24 +149,24 @@ var currentTheme;
 function checkTheme() {
 	currentTheme = localStorage.getItem("theme");
 
-	console.log(currentTheme);
+	// console.log(currentTheme);
 			
 	if (currentTheme === null) {
-		console.log("Null, set to light.");
+		// console.log("Null, set to light.");
 		localStorage.setItem("theme", "light-theme");
 		document.querySelector(".theme").setAttribute("name", "moon");
     document.querySelector("")
 	}
 
 	else if (currentTheme === "light-theme") {
-		console.log("light, set to light");
+		// console.log("light, set to light");
 		document.body.classList.add("light-theme");
     
 		document.querySelector(".theme").setAttribute("name", "moon");
 	}
 
 	else if (currentTheme === "dark-theme") {
-		console.log("dark, set to dark");
+		// console.log("dark, set to dark");
 		document.body.classList.add("dark-theme");
 		document.querySelector(".theme").setAttribute("name", "sunny");
 	}
@@ -179,8 +179,8 @@ function checkTheme() {
 function changeTheme() {
 	currentTheme = localStorage.getItem("theme");
 
-	console.log("theme before change:")
-	console.log(currentTheme);
+	// console.log("theme before change:")
+	// console.log(currentTheme);
 
 	if (currentTheme === "light-theme") {
 		document.body.classList.remove("light-theme");
@@ -197,8 +197,8 @@ function changeTheme() {
 	}
 
 	currentTheme = localStorage.getItem("theme");
-	console.log("current theme after change:")
-	console.log(currentTheme);
+	// console.log("current theme after change:")
+	// console.log(currentTheme);
 
 	// document.querySelector(".theme").classList.toggle("rotated");
 }
@@ -206,8 +206,15 @@ function changeTheme() {
 document.querySelector('.theme').addEventListener('click', function() {
   const icon = this.querySelector('i');
   // const text = this.querySelector('span');
+  currentTheme = localStorage.getItem("theme");
 
-  if (icon.classList.contains('fa-moon')) {
+  if (currentTheme === "dark-theme") {
+    icon.classList.remove('fa-moon');
+    icon.classList.add('fa-sun')
+  } else if (currentTheme === "light-theme") {
+    icon.classList.remove('fa-sun');
+    icon.classList.add('fa-moon')
+  } else if (icon.classList.contains('fa-moon')) {
     icon.classList.remove('fa-moon');
     icon.classList.add('fa-sun');
   } else {
