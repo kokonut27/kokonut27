@@ -41,7 +41,7 @@
 
 a {
   text-decoration: none;
-  color: color: var(--accent-primary);
+  color: var(--text-secondary);
 }
 
 a:hover {
@@ -73,7 +73,7 @@ div.main {
 
 .connections a {
   text-decoration: none;
-  color: color: var(--accent-primary);
+  color: var(--accent-primary);
 }
 
 .connections i {
