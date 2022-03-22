@@ -1,5 +1,5 @@
 <h1> Hiya! :wave: </h1>
-<p align="left"> I'm an aspiring coder who likes to code API packages, code python-based languages, code using databases, code Discord bots, and code Flask, React, and Vite apps! I also love reading manga, and watching anime as well! I decided to keep my README short and simple, unlike other profile README's. Please check out my pinned Repos; they're definitely worth it :) </p>
+<p align="left"> I'm an aspiring coder who likes to code [API packages](https://github.com/kokonut27/Git-API), code [python-based languages](https://github.com/kokonut27/zsq), code using databases, code Discord bots, and code Flask, React, and Vite apps! I also love reading manga, and watching anime as well! I decided to keep my README short and simple, unlike other profile README's. Please check out my pinned Repos; they're definitely worth it :) </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kokonut27"/>
 
