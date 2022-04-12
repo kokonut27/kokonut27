@@ -1,0 +1,26 @@
+{
+  "name": "kokonut27",
+  "version": "1.0.0",
+  "description": "<h1> Hiya! :wave: </h1> <p align=\"left\"> I'm an aspiring coder who likes to code <a href=\"https://github.com/kokonut27/Git-API\">API packages</a>, code <a href=\"https://github.com/kokonut27/zsq\">python-based languages</a>, code using databases, code Discord bots, and code Flask and React apps! I also love reading manga, and watching anime as well! I decided to keep my README short and simple, unlike other profile README's. Please check out my pinned Repos; they're definitely worth it :) </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokonut27/kokonut27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokonut27/kokonut27/issues"
+  },
+  "homepage": "https://github.com/kokonut27/kokonut27#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "multer": "^1.4.4"
+  }
+}

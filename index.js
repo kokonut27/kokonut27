@@ -25,3 +25,11 @@ let data = {
     "python"
   ]
 };
+
+app.get('/', (res, req) => {
+  
+});
+
+app.listen(8080, () => {
+  console.log('pictorama is running');
+});
