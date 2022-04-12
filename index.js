@@ -5,6 +5,7 @@ const path = require('path');
 const multer = require('multer');
 const upload = multer();
 const cookieParse = require('cookie-parser');
+const url = require('url');
 
 app.use(cookieParse());
 app.use(express.json()); 
@@ -26,8 +27,8 @@ let data = {
   ]
 };
 
-app.get('/', (res, req) => {
-  
+app.get("/", (req, res) => {
+  res.render('index');
 });
 
 app.listen(8080, () => {
