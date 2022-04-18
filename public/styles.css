@@ -8,6 +8,7 @@
 }
 
 body, html {
+  margin: 0;
   text-align: center;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   
@@ -31,6 +32,15 @@ a:hover { cursor: pointer; }
 
 nav {
   color: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  background: #333;
+  padding: 10px;
+  height: 100%;
+  width: 15vw;
 }
 
 .navbar {
@@ -43,7 +53,6 @@ nav {
   padding: 10px;
   height: 100%;
   width: 15vw;
-  
 }
 
 .nav-links {
