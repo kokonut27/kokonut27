@@ -42,13 +42,7 @@ nav {
   display: flex;
   align-items: center;
   background: #333;
-  length: 100%;
+  height: 100%;
   left: 0;
-}
-
-.navbar .nav-link {
-  color: #FFF;
-  display: inline-block;
-  text-decoration: none;
-  position: relative;
+  padding: 10px;
 }
