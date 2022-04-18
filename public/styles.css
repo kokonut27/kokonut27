@@ -35,15 +35,20 @@ nav {
 
 .navbar {
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
   background: #333;
   padding: 10px;
+  height: 100%;
+  width: 15vw;
+  
 }
 
 .nav-links {
   list-style: none;
   display: flex;
   position: relative;
-  display: inline-block;
 }
 
