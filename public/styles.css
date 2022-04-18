@@ -31,8 +31,6 @@ a:hover { cursor: pointer; }
 
 nav {
   color: #FFF;
-  height: 100%;
-  left: 0;
 }
 
 .navbar {
@@ -46,5 +44,6 @@ nav {
   list-style: none;
   display: flex;
   position: relative;
+  display: inline-block;
 }
 
