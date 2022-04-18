@@ -46,3 +46,7 @@ nav {
   left: 0;
   padding: 10px;
 }
+
+.navbar .nav-links {
+  position: relative;
+}
