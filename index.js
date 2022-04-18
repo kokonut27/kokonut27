@@ -36,6 +36,10 @@ app.get("/", (req, res) => {
   res.render('index');
 });
 
+app.get("/socials", (req, res) => {
+  res.render('socials');
+});
+
 app.listen(8080, () => {
   console.log('portfolio is running!');
 });
