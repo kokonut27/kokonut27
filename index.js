@@ -24,6 +24,11 @@ let data = {
     "nodejs",
     "html/css",
     "python"
+  ],
+  "tools": [
+    "replit",
+    "github",
+    "glitch"
   ]
 };
 
@@ -32,5 +37,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(8080, () => {
-  console.log('pictorama is running');
+  console.log('portfolio is running!');
 });
