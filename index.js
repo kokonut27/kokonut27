@@ -16,20 +16,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.enable('verbose errors');
 
-let data = {
-  "username": "kokonut27",
-  "description": "Full-stack developer who loves anime <3",
-  "languages": [
-    "nodejs",
-    "html/css",
-    "python"
-  ],
-  "tools": [
-    "replit",
-    "github",
-    "glitch"
-  ]
-};
+
 
 app.get("/", (req, res) => {
   res.render('index');
