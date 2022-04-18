@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
 body, html {
   text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
