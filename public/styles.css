@@ -31,22 +31,20 @@ a:hover { cursor: pointer; }
 
 nav {
   color: #FFF;
-}
-
-.nav-links {
-  list-style: none;
-  display: flex;
+  height: 100%;
+  left: 0;
 }
 
 .navbar {
   display: flex;
   align-items: center;
   background: #333;
-  height: 100%;
-  left: 0;
   padding: 10px;
 }
 
-.navbar .nav-links {
+.nav-links {
+  list-style: none;
+  display: flex;
   position: relative;
 }
+
