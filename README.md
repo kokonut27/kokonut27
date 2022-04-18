@@ -1,4 +1,4 @@
-<h1> Hiya! :wave: </h1>
+<h1> :wave: Hiya! </h1>
 <p align="left"> I'm an aspiring coder who likes to code <a href="https://github.com/kokonut27/Git-API">API packages</a>, code <a href="https://github.com/kokonut27/zsq">python-based languages</a>, code using databases, code Discord bots, and code Flask and React apps! I also love reading manga, and watching anime as well! I decided to keep my README short and simple, unlike other profile README's. Please check out my pinned Repos; they're definitely worth it :) </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kokonut27"/>
