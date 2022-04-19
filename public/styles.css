@@ -52,13 +52,6 @@ a:hover { cursor: pointer; }
   text-decoration: none;
 }
 
-/*
-.navbar a:hover:not(.active) {
-  background-color: #555;
-  color: #FFF;
-}
-*/
-
 @media screen and (max-width: 700px) {
   .navbar {
     width: 100%;
