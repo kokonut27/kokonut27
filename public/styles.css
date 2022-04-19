@@ -41,14 +41,14 @@ a:hover { cursor: pointer; }
   overflow: auto;
 }
 
-.navbar .nav-links {
+.navbar a {
   display: block;
   color: #FFF;
   padding: 16px;
   text-decoration: none;
 }
 
-.sidebar a:hover:not(.active) {
+.navbar a:hover:not(.active) {
   background-color: #555;
   color: #FFF;
 }
