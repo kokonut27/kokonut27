@@ -4,20 +4,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/styles.css" rel="stylesheet"/>
-    <link rel="icon" type="image/png" href="/logo.png">
+    <link rel="icon" type="image/png" href=<%= avatar %>>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>kokonut - Socials</title>
   </head>
   <body>
     <nav>
       <div class="navbar">
-        <ul>
-          <li><a href="/"><i class="fa-solid fa-house-user"></i></a></li>
-          <li><a href="/about"><i class="fa-solid fa-user"></i></a></li>
-          <li><a href="/projects"><i class="fa-solid fa-book"></i></a></li>
-          <li><a href="/proficiencies"><i class="fa-solid fa-chart-column"></i></a></li>
-          <li><a href="/socials"><i class="fa-solid fa-share-nodes"></i></a></li>
-        </ul>
+        <a href="/"><img src=<%= avatar %> class="logo" alt="logo" width="50" height="50"></a>
+        <a href="/"><i class="fa-solid fa-house-user fa-4x"></i></a>
+        <a href="/about"><i class="fa-solid fa-user fa-4x"></i></a>
+        <a href="/projects"><i class="fa-solid fa-book fa-4x"></i></a>
+        <a href="/proficiencies"><i class="fa-solid fa-chart-column fa-4x"></i></a>
+        <a href="/socials"><i class="fa-solid fa-share-nodes fa-4x"></i></a>
       </div>
     </nav>
     
