@@ -34,11 +34,15 @@ a:hover { cursor: pointer; }
 .navbar {
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 100px;
   background-color: #333;
   position: fixed;
   height: 100%;
   overflow: auto;
+  /* everything down below is new */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .navbar a {
