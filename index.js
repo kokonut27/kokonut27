@@ -5,6 +5,12 @@ const multer = require('multer');
 const upload = multer();
 const cookieParse = require('cookie-parser');
 const url = require('url');
+const github = require('octonode');
+const client = github.client();
+
+client.get('/users/kokonut27', {}, function (err, status, body, headers) {
+  app.locals.avatar = body.avatar_url;
+});
 
 app.use(cookieParse());
 app.use(express.json()); 
