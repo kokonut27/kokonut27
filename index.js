@@ -9,7 +9,12 @@ const github = require('octonode');
 const client = github.client();
 
 client.get('/users/kokonut27', {}, function (err, status, body, headers) {
-  app.locals.avatar = body.avatar_url;
+  try {
+    app.locals.avatar = body.avatar_url;
+    console.log(app.locals.avatar);
+  } catch (e) {
+    console.log(e, err);
+  };
 });
 
 app.use(cookieParse());
@@ -23,13 +28,57 @@ app.set('view engine', 'ejs');
 app.enable('verbose errors');
 
 
-
 app.get("/", (req, res) => {
   res.render('index');
 });
 
 app.get("/socials", (req, res) => {
   res.render('socials');
+});
+
+app.get("/projects", (req, res) => {
+  res.render('projects');
+});
+
+app.get("/proficiencies", (req, res) => {
+  res.render('proficiencies');
+});
+
+app.get("/about", (req, res) => {
+  res.render('about');
+});
+
+app.get('/404', (req, res, next) => {
+  next();
+});
+
+app.use((req, res, next) => {
+  res.status(404);
+
+  res.format({
+    html: () => {
+      res.render('404', { 
+        url: req.url
+      });
+    },
+    json: () => {
+      res.json({ error: 'Not found' })
+    },
+    default: () => {
+      res.type('txt').send('Not found')
+    }
+  })
+});
+
+app.use((err, req, res, next) => {
+  /*
+  res.status(err.status || 500);
+  res.render('500', { 
+    error: err
+  });
+  */
+  console.log('500 error has been reached');
+  res.redirect('/');
 });
 
 app.listen(8080, () => {

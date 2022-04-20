@@ -15,12 +15,20 @@ body, html {
 }
 
 .content {
+  text-align: left;
   padding: 16px;
   margin-left: 200px;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
   justify-content: space-between;
+}
+
+.mainpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 a {

@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/styles.css" rel="stylesheet"/>
     <link rel="icon" type="image/png" href=<%= avatar %>>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>kokonut - Socials</title>
+    <title>kokonut - 500</title>
   </head>
+  
   <body>
     <nav>
       <div class="navbar">
@@ -19,18 +19,16 @@
         <a href="/socials"><i class="fa-solid fa-share-nodes fa-2x"></i></a>
       </div>
     </nav>
-    
+
+    <br>
+
     <div class="content">
-      <div class="socials-page">
-        <h1>Socials</h1>
-        
-        <div>
-          <p>Want to contact me? Well here I am!</p>
-        </div>
-        <div class="socials-icons">
-          <!-- add icons and links here -->
-        </div>
-      </div>
+      <h2>Error: <%= error.message %></h2>
+      <% if (settings['verbose errors']) { %>
+        <pre><%= error.stack %></pre>
+      <% } else { %>
+        <p>An error occurred!</p>
+      <% } %>  
     </div>
   </body>
 </html>
