@@ -85,3 +85,12 @@ a:hover { cursor: pointer; }
   }
 }
 
+.socials-icons img { 
+  width: 3em; 
+  height: 3em;
+}
+
+.socials-icons img:hover, .socials-icons i:hover {
+  transition: 0.3s;
+  transform: scale(1.5);
+}

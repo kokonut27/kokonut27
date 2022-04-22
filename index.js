@@ -11,7 +11,6 @@ const client = github.client();
 client.get('/users/kokonut27', {}, function (err, status, body, headers) {
   try {
     app.locals.avatar = body.avatar_url;
-    console.log(app.locals.avatar);
   } catch (e) {
     console.log(e, err);
   };
@@ -78,7 +77,7 @@ app.use((err, req, res, next) => {
   });
   */
   console.log('500 error has been reached');
-  res.redirect('/');
+  res.redirect(req.get('referer'));
 });
 
 app.listen(8080, () => {
