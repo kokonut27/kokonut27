@@ -70,12 +70,6 @@ app.use((req, res, next) => {
 });
 
 app.use((err, req, res, next) => {
-  /*
-  res.status(err.status || 500);
-  res.render('500', { 
-    error: err
-  });
-  */
   console.log('500 error has been reached');
   res.redirect(req.get('referer'));
 });
