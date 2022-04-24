@@ -71,7 +71,7 @@ app.use((req, res, next) => {
 
 app.use((err, req, res, next) => {
   console.log('500 error has been reached');
-  res.redirect(req.get('referer'));
+  res.redirect('/');
 });
 
 app.listen(8080, () => {
