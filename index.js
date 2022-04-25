@@ -4,7 +4,6 @@ const path = require('path');
 const multer = require('multer');
 const upload = multer();
 const cookieParse = require('cookie-parser');
-const url = require('url');
 const github = require('octonode');
 const client = github.client();
 
