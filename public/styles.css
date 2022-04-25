@@ -85,6 +85,10 @@ a:hover { cursor: pointer; }
     margin-left: 0;
     font-size: 100%;
   }
+  .main-content {
+    margin-left: 0;
+    font-size: 100%;
+  }
   .replit-logo {width: 64px; height: 64px;}
 }
 
@@ -147,9 +151,9 @@ a:hover { cursor: pointer; }
   justify-content: center;
   font-size: 130%;
   min-height: 40vh;
-  max-height: 50vh;
+  max-height: 70vh;
   min-width: 40vw;
-  max-width: 50vw;
+  max-width: 55vw;
   flex-direction: column;
   justify-content: space-between;
   padding: 10px;
