@@ -72,7 +72,11 @@ a:hover { cursor: pointer; }
     position: relative;
   }
   .navbar a {float: left;}
-  .content {margin-left: 0;}
+  .content {
+    margin-left: 0;
+    font-size: 100%;
+  }
+  .replit-logo {width: 64px; height: 64px;}
 }
 
 @media screen and (max-width: 400px) {
@@ -84,6 +88,9 @@ a:hover { cursor: pointer; }
   .logo {
     float: center;
   }
+
+  .icon .fa-brands, .icon .fa-solid {font-size: 34px;}
+  .replit-logo {width: 50px; height: 50px;}
 }
 
 .socials-icons { 
@@ -100,10 +107,12 @@ a:hover { cursor: pointer; }
   transition: 0.3s;
 }
 
-#social:hover {
-  transform: rotate(-45deg);
-  color: #000;
-}
+#social:hover {transform: rotate(-45deg);}
+
+.github-logo:hover {color: #000;}
+.discord-logo:hover {color: #5865F2;}
+.email-logo:hover {color: #d45c20;}
+.server-logo:hover {color: #4ca4fc;}
 
 .socials-icons img, .socials-icons i {
   display: inline-block;
