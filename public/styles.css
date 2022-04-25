@@ -17,7 +17,16 @@ body, html {
 .content {
   text-align: left;
   padding: 16px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 150%;
   margin-left: 200px;
+}
+
+.main-content {
+  padding: 16px;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -99,7 +108,7 @@ a:hover { cursor: pointer; }
 }
 
 #social {
-  border: 3px solid #333; /* use #333 instead maybe */
+  border: 3px solid #333;
   background: #555;
   padding: 5px;
   border-radius: 10px;
@@ -122,21 +131,25 @@ a:hover { cursor: pointer; }
 .icon {
   display: inline;
   padding-right: 15px;
+  padding-bottom: 15px;
 }
 
 .projects {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 50px;
 }
 
 .project {
   display: flex;
   justify-content: center;
   font-size: 130%;
-  min-height: 20vh;
+  min-height: 40vh;
+  max-height: 50vh;
   min-width: 40vw;
+  max-width: 50vw;
   flex-direction: column;
   justify-content: space-between;
   padding: 10px;
@@ -147,6 +160,10 @@ a:hover { cursor: pointer; }
 }
 .project:hover { box-shadow: 0px 8px 16px 0px #333; }
 
+.project-padding {
+  padding-bottom: 30px;
+}
+
 .project-content {
   display: flex;
   justify-content: center;
@@ -154,18 +171,26 @@ a:hover { cursor: pointer; }
   text-align: center;
 }
 
+.project-title {
+  padding: 10px;
+}
+
+.project-text {
+  padding: 30px;
+}
+
 .button {
   display: flex;
-  padding: 7px;
+  padding: 10px;
 }
 
 .project-button {
-  padding: 10px;
+  padding: 13px;
   background: #333;
   border-radius: 5px;
   color: #FFF;
   border: 1px solid #333;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 
 .project-button:hover { 
