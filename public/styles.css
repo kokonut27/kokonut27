@@ -122,10 +122,13 @@ a:hover { cursor: pointer; }
 
 #social:hover {transform: rotate(-45deg);}
 
+/*
+.replitE-logo:hover {color: #777;}
 .github-logo:hover {color: #000;}
 .discord-logo:hover {color: #5865F2;}
 .email-logo:hover {color: #d45c20;}
 .server-logo:hover {color: #4ca4fc;}
+*/
 
 .socials-icons img, .socials-icons i {
   display: inline-block;
