@@ -179,6 +179,10 @@ a:hover { cursor: pointer; }
   padding: 10px;
 }
 
+.project-title h2 {
+  display: inline;
+}
+
 .project-text {
   padding: 30px;
 }
