@@ -205,3 +205,14 @@ a:hover { cursor: pointer; }
   cursor: pointer; 
   transform: translate(0, 5%);
 }
+
+
+footer {
+  padding: 10px;
+  text-align: right;
+}
+
+.footer a:hover {
+  transition: 0.5s;
+  text-decoration: underline;
+}
