@@ -7,6 +7,13 @@
     <link rel="icon" type="image/png" href=<%= avatar %>>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>kokonut - Proficiencies</title>
+    
+    <meta content="kokonut - Proficiencies" property="og:title" />
+    <meta content="Hobbyist Full-stack developer | My proficiencies" property="og:description" />
+    <meta content="https://kokonut.vercel.app/proficiencies" property="og:url" />
+		<meta property="og:type" content="website" />
+    <meta content=<%= avatar %> property="og:image" />
+    <meta id="embed-color" content="#111" data-react-helmet="true" name="theme-color" />
   </head>
   <body>
     <nav>
@@ -23,6 +30,55 @@
     <div class="content">
       <div>
         <h1>Proficiencies</h1>
+        <div class="proficiencies">
+          <div class="outer-lang">
+            <div class="lang">
+              <div class="lang-logo">
+                <i class="fa-brands fa-python fa-2x"></i>
+              </div>
+              <div class="percent python-percent"></div>
+              <div class="num-percent">
+                95%
+              </div>
+            </div>
+          </div>
+
+          <div class="outer-lang">
+            <div class="lang">
+              <div class="lang-logo">
+                <i class="fa-brands fa-js-square fa-2x"></i>
+              </div>
+              <div class="percent javascript-percent"></div>
+              <div class="num-percent">
+                90%
+              </div>
+            </div>
+          </div>
+
+          <div class="outer-lang html-logo">
+            <div class="lang">
+              <div class="lang-logo">
+                <i class="fa-brands fa-html5 fa-2x"></i>
+              </div>
+              <div class="percent html-percent"></div>
+              <div class="num-percent">
+                97%
+              </div>
+            </div>
+          </div>
+
+          <div class="outer-lang css-logo">
+            <div class="lang">
+              <div class="lang-logo">
+                <i class="fa-brands fa-css3-alt fa-2x"></i>
+              </div>
+              <div class="percent css-percent"></div>
+              <div class="num-percent">
+                97%
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <%- include('footer') %>
     </div>

@@ -141,12 +141,19 @@ a:hover { cursor: pointer; }
   padding-bottom: 15px;
 }
 
+@keyframes fade-in {
+  100% {
+    opacity: 1;
+  }
+}
+
 .projects {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding-top: 50px;
+  animation: fade-in 1s forwards;
 }
 
 .project {
@@ -168,7 +175,7 @@ a:hover { cursor: pointer; }
 .project:hover { box-shadow: 0px 8px 16px 0px #333; }
 
 .project-padding {
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 .project-content {
@@ -198,7 +205,7 @@ a:hover { cursor: pointer; }
 .project-button {
   padding: 13px;
   background: #333;
-  border-radius: 5px;
+  border-radius: 4px;
   color: #FFF;
   border: 1px solid #333;
   transition: 0.2s;
@@ -207,6 +214,70 @@ a:hover { cursor: pointer; }
 .project-button:hover { 
   cursor: pointer; 
   transform: translate(0, 5%);
+}
+
+.proficiencies {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.outer-lang {
+  padding-bottom: 25px;
+}
+
+.lang {
+  display: inline-block;
+}
+
+.lang i, .lang .python-percent, .javascript-percent, .html-percent, .css-percent {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 15px;
+}
+
+.percent {
+  border: 2px solid #333;
+  width: 300px;
+  height: 40px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.python-percent {
+  background: linear-gradient(to right, #777 95%, #111 5%);
+}
+
+.javascript-percent {
+  background: linear-gradient(to right, #777 90%, #111 10%);
+}
+
+.html-percent {
+  background: linear-gradient(to right, #777 97%, #111 3%);
+}
+
+.css-percent {
+  background: linear-gradient(to right, #777 97%, #111 3%);
+}
+
+.html-logo i, .css-logo i {
+  padding-right: 20px;
+}
+
+.num-percent {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.lang-logo {
+  display: inline-block;
+}
+
+.lang-logo i {transition: 0.3s;}
+
+.lang-logo i:hover {
+  transform: scale(1.2, 1.2);
+  cursor: pointer;
 }
 
 

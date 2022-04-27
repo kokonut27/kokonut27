@@ -7,6 +7,13 @@
     <link rel="icon" type="image/png" href=<%= avatar %>>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>kokonut - Projects</title>
+
+    <meta content="kokonut - Projects" property="og:title" />
+    <meta content="Hobbyist Full-stack developer | View my projects" property="og:description" />
+    <meta content="https://kokonut.vercel.app/projects" property="og:url" />
+		<meta property="og:type" content="website" />
+    <meta content=<%= avatar %> property="og:image" />
+    <meta id="embed-color" content="#111" data-react-helmet="true" name="theme-color" />
   </head>
   <body>
     <nav>
@@ -83,5 +90,6 @@
       </div>
       <%- include('footer') %>
     </div>
+    <script src="/animation.js"></script>
   </body>
 </html>
