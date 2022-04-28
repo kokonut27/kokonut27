@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
+* {
+  transition: background 0.2s, color 0.2s;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
   margin: 0;
@@ -278,6 +282,11 @@ a:hover { cursor: pointer; }
 .lang-logo i:hover {
   transform: scale(1.2, 1.2);
   cursor: pointer;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
 }
 
 
