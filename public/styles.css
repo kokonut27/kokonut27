@@ -242,7 +242,8 @@ a:hover { cursor: pointer; }
 
 .percent {
   border: 2px solid #333;
-  width: 300px;
+  width: 50vw;
+  max-width: 275px;
   height: 40px;
   border-radius: 4px;
   display: inline-block;
