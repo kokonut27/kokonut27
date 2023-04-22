@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kokonut27/kokonut27#readme",
   "dependencies": {
     "cookie-parser": "^1.4.6",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.7",
     "express": "^4.17.3",
     "multer": "^1.4.4",
     "octonode": "^0.10.2"
